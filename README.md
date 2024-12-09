@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Esta é uma API simples de Gerenciador de Tarefas construída usando Spring Boot e Spring Data JPA. A API permite criar, listar, atualizar e deletar tarefas armazenadas em um banco de dados H2.
+Esta é uma API simples de Gerenciador de Tarefas construída usando Spring Boot. A API permite criar, listar, atualizar e deletar tarefas armazenadas em um banco de dados.
 
 ## Tecnologias Utilizadas
 
